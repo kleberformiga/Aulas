@@ -1,0 +1,4 @@
+git add "arquivo.ipynb" - talvez nem precise
+git commit -m "comentatario"
+git push origin master
+git pull origin master
